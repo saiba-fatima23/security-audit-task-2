@@ -1,0 +1,20 @@
+WEEK 2 SUBMISSION CHECKLIST
+
+Deliverables:
+[✓] Core framework draft
+[✓] Standardized templates and guidelines
+[✓] Test scenario log
+[ ] Actual mentor/team feedback — fill in after receiving feedback
+
+Objectives covered:
+[✓] Operational framework and Log Analysis / NIST CSF workflows
+[✓] Standardized forms and process documentation
+[✓] Mid-stage sample scenarios
+
+Files:
+- Week2_Core_Framework_and_Guidelines.docx
+- Week2_Standardized_Templates_and_Test_Log.xlsx
+
+Note:
+DemoShop and all sample observations are fictional/simulated for academic practice.
+No real website has been tested. Do not describe simulated observations as verified findings.
